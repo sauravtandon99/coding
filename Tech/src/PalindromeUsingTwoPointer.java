@@ -15,6 +15,7 @@ public class PalindromeUsingTwoPointer {
 			System.out.println(ch);
 			String ap = new String(ch);
 			System.out.println(str.equals(ap));
+		    System.out.println("This is a new line ");
 		}
 		
 				
