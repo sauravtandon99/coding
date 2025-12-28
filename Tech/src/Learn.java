@@ -9,5 +9,6 @@ class Learn{
 
 		}
 		System.out.println("Hello Git Daily Workflow");
+	    System.out.println("New Update Last");
 	}
 }
