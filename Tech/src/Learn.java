@@ -6,6 +6,8 @@ class Learn{
 	     System.out.println("This is new change 5");
 		for(int i=0;i<str.length();i++){
 			System.out.println(str);
+
 		}
+		System.out.println("Hello Git Daily Workflow");
 	}
 }
