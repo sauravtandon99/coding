@@ -5,6 +5,7 @@ public class Python {
 		System.out.println(str);
 		System.out.println("Adding new line to check");
 		System.out.println("New Line 2 Added ");
+		System.out.println("Adding new Line in Eclipse");
 		
 	}
 
