@@ -6,7 +6,7 @@ public class LargestArray {
 
 	int[] arr = {2,5,1,9,3};
 	int max= arr[0];
-	for(int i=0;i<arr.length;i++) {
+	for(int i=1;i<arr.length;i++) {
 		if(arr[i]>max) {
 			max = arr[i];
 		}
